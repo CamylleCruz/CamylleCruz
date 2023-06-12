@@ -17,6 +17,21 @@ Turma do 2° SESC - Informática
 **GitHub**
 
 _GitHub_
+<br>
+1.Aula1
+0.Aula2
+1.Aula3
+
+_GitHub_
+
+-{ } opção 1
+-{ } opção 2
+-{ } opção 3
+
+#Título 1
+***
+[Barbie] (https://onlineseries.com.br/wp-content/uploads/2023/02/Boneca-Barbie.jpg)
+
 
 
 <!--
