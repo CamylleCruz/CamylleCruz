@@ -1,10 +1,22 @@
 ### Welcome Camylle's Page 👋
 
 <h> Camylle Vitória </h2>
-<br>
+
 Aula de Git Hub 12/06/2023
-<br>
+
 <b> Sesc Londrina Centro </b> 
+
+<hr>
+<hr>
+
+Aula de Informática - Produção de README 
+
+Turma do 2° SESC - Informática
+
+<hr>
+**GitHub**
+_GitHub_
+
 
 <!--
 **CamylleCruz/CamylleCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
