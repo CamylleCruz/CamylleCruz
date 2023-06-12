@@ -32,6 +32,8 @@ _GitHub_
 ***
 [Barbie] (https://onlineseries.com.br/wp-content/uploads/2023/02/Boneca-Barbie.jpg)
 
+💮
+
 
 
 <!--
