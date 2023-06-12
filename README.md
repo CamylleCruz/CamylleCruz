@@ -25,11 +25,15 @@ _GitHub_
 _GitHub_
 
 -{ } opção 1
+
 -{ } opção 2
+
 -{ } opção 3
 
 #Título 1
+
 ***
+
 [Barbie] (https://onlineseries.com.br/wp-content/uploads/2023/02/Boneca-Barbie.jpg)
 
 ❣️
