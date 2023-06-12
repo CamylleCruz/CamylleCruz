@@ -24,11 +24,11 @@ _GitHub_
 
 _GitHub_
 
-- [] opção 1
+- [ ] opção 1
 
-- [] opção 2
+- [ ] opção 2
 
-- [] opção 3
+- [ ] opção 3
 
 # TÍTULO 1
 
